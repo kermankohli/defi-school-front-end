@@ -18,7 +18,7 @@ const HomePage: React.FunctionComponent<IProps> = () => {
       <h1>DeFi School</h1>
       <p className={'description'}>Learn about everything DeFi in one place.</p>
       <div className={'menu-container'}>
-        <a className={'menu-item'} href={'https://defiweekly.simplecast.com'}>
+        <a className={'menu-item'} href={'https://the-defi-podcast.simplecast.com/'}>
           <h3 style={{color: '#FF6F81'}}>Podcast</h3>
           <img src={mic}/>
         </a>
