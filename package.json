@@ -9,7 +9,7 @@
     "lint": "tslint --project . -t verbose 'src/**/*.{tsx,ts}'"
   },
   "dependencies": {
-    "npm": "^6.10.3",
+    "npm": "^6.14.6",
     "npm-run-all": "^4.1.5",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
